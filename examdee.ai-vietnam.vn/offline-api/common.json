@@ -1,0 +1,35 @@
+{
+  "chart": {
+    "correct": "Correct",
+    "totalScore": "Total score"
+  },
+  "leaderboard": {
+    "title": "Leaderboard",
+    "loading": "Loading data...",
+    "updating": "Updating...",
+    "rank": "Rank",
+    "info": "Info",
+    "school": "School",
+    "class": "Class",
+    "duration": "Test duration",
+    "attempts": "Attempts",
+    "score": "Score",
+    "noteTitle": "Note",
+    "noteBullet1": "Aggregated from <strong>results of all rounds</strong> and <strong>refreshed every minute</strong>",
+    "noteBullet2": "Personal info, class, and school <strong>can be adjusted in settings</strong>",
+    "you": "You"
+  },
+  "qrCode": {
+    "title": "QR code for the exam",
+    "description": "Scan this QR code to access the exam",
+    "close": "Close",
+    "download": "Download"
+  },
+  "clipboard": {
+    "copiedTitle": "Copied",
+    "copiedCodeDescription": "Code copied successfully",
+    "copiedLinkDescription": "Link copied successfully",
+    "errorTitle": "Error",
+    "errorDescription": "Unable to copy"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "fullscreen": {
+    "title": "Please enable fullscreen mode",
+    "description": "To ensure the best learning experience and avoid interruptions, you need to enable fullscreen mode before continuing. <br /> After enabling, you will not be able to exit until the lesson / exam is finished.",
+    "enable": "Enable fullscreen mode",
+    "skip": "Skip"
+  },
+  "questionView": {
+    "enterYourAnswer": "Enter your answer",
+    "enterAnswerHere": "Enter your answer here",
+    "dragDrop": {
+      "title": "Drag and drop the answer into the blank"
+    },
+    "answerTooltip": {
+      "title": "Answer list"
+    }
+  },
+  "selectCorrectAnswer": "Select correct answer",
+  "media": {
+    "unlimited": "unlimited",
+    "replayUnlimited": "Replay times: unlimited",
+    "replayRemaining": "Remaining replays: {{count}}",
+    "replayTotal": "Replay times: {{count}}",
+    "videoLoadFailed": "Unable to load video. Please try again later.",
+    "imageLoadFailed": "Unable to load image. Please try again later.",
+    "audioLoadFailed": "Unable to load audio. Please try again later.",
+    "imageAlt": "Question image",
+    "videoAlt": "Question video",
+    "replayLimitReached": "Replay limit reached"
+  }
+}

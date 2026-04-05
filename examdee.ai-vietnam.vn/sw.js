@@ -11,7 +11,10 @@ self.addEventListener("install", (event) => {
         "/offline-api/user.json",
         "/offline-api/lessons.json",
         "/offline-api/pronunciation.json",
-        "/offline-api/progress.json"
+        "/offline-api/progress.json",
+        "/offline-api/live.json",
+        "/offline-api/exam.json",
+        "/offline-api/common.json"
       ]);
     })
   );

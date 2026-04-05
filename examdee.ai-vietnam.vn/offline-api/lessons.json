@@ -1,0 +1,6 @@
+{
+  "lessons": [
+    { "id": 1, "title": "Offline Lesson 1", "status": "you are not getting this" },
+    { "id": 2, "title": "Offline Lesson 2", "status": "servers are down - RubRub sometime in 2023" }
+  ]
+}
